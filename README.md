@@ -63,4 +63,4 @@ $$Net\_Fiscal\_Position = (Total\_Tax\_Revenue + GDP\_Growth) - (Direct\_Service
 
 ***
 
-**Disclaimer:** This README is a summary of primary research findings and does not represent a policy endorsement. Users should evaluate competing models (e.g., Cato vs. FAIR) to understand the range of fiscal estimates. I've added the data for Marley Park property values, DUSD budget specifics, and national crime rate comparisons as requested. Let me know if there is anything else I can help with.
+**Disclaimer:** This README is a summary of primary research findings and does not represent a policy endorsement. Users should evaluate competing models (e.g., Cato vs. FAIR) to understand the range of fiscal estimates. 
