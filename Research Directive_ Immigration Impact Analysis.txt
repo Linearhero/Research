@@ -1,0 +1,306 @@
+﻿Socio-Economic and Public Safety Impact Analysis of the Marley Park Residential Corridor: A Five-Tier Community Assessment
+The evolution of the West Valley of Maricopa County, specifically within the city of Surprise, Arizona, serves as a primary case study for the socio-economic complexities of modern American suburbanization. For the residents of the Marley Park residential corridor, a community defined by its "Traditional Neighborhood Design" and family-oriented amenities, the intersection of rapid population growth and shifting demographic dynamics has prompted legitimate inquiries into the resulting impacts on public safety, fiscal stability, and neighborhood character. This report provides a comprehensive, data-driven analysis of these factors, utilizing official municipal, county, state, and federal records to evaluate the costs and contributions of diverse population groups. By examining data across five distinct tiers—from the micro-level of the Marley Park subdivision to the macro-level of national immigration policy—this analysis seeks to provide a balanced and transparent picture of the current landscape.
+Executive Summary
+The socio-economic health of the Marley Park corridor is characterized by significant property value resilience and a high perception of public safety among its residents. Analysis of real estate market data from late 2024 through early 2026 indicates that Marley Park maintains a median home value of approximately $485,000, outperforming many comparable non-age-restricted communities in the West Valley.1 This stability is mirrored in public safety assessments, where over 97% of surveyed residents report feeling safe in the city during the day, supported by a police department that utilizes strategic and tactical crime analysis to manage resources across specific neighborhood beats.3
+From a fiscal perspective, the impacts of population dynamics are most pronounced in the education and healthcare sectors. The Dysart Unified School District (DUSD) manages a substantial budget of approximately $257 million, with recent data showing a projected increase in English Language Learner (ELL) incremental costs to $315,020 for the 2026 fiscal year.6 These costs, however, are partially mitigated by federal funding sources, which account for 16% of the district's total revenue.7 In the healthcare sector, Banner Del E. Webb Medical Center serves as a critical infrastructure point, navigating a statewide trend of rising uncompensated care costs which reached $638.5 million in 2024, even as the hospital system maintained strong net operating margins.8
+Nationally and at the state level, a rigorous debate continues between academic and research institutions regarding the net fiscal impact of immigration. Restrictionist-leaning organizations such as the Federation for American Immigration Reform (FAIR) estimate that illegal immigration imposes a significant annual burden on Arizona’s budget, totaling approximately $3.2 billion in 2023.9 Conversely, the libertarian-leaning Cato Institute argues that over a thirty-year period, immigrants have contributed a cumulative fiscal surplus of $14.5 trillion to the national economy, driven by higher labor force participation rates and lower consumption of public retiree benefits compared to the native-born population.10 This report evaluates these competing perspectives to offer a balanced synthesis of the costs and contributions shaping the Marley Park corridor.
+Tier 1 — Micro Level: Marley Park Subdivision, Surprise AZ
+The Marley Park subdivision is a uniquely designed master-planned community in Surprise, Arizona, characterized by its emphasis on walkability, civic space, and traditional architectural aesthetics. Understanding the socio-economic impact of population dynamics at this level requires an analysis of property value trajectories, localized public safety data, and the distinction between data-driven community responses and sentiment-driven perceptions.
+Property Value Trends and Comparative Market Analysis
+Property values serve as a primary indicator of a neighborhood's socio-economic stability. In the 2024–2025 period, Marley Park demonstrated remarkable resilience compared to other subdivisions in the West Valley. While the broader Phoenix market entered a phase of slower growth after the rapid appreciation of the early 2020s, Marley Park’s median home price stabilized at $485,000.1 This is particularly significant when compared to Sun City Grand, an established age-restricted community nearby, where the median price fluctuated between $439,000 and $507,000 depending on home type and upgrades.1
+Neighborhood
+	Median Home Price (2025)
+	Price per Sq. Ft.
+	Median Days on Market
+	Marley Park
+	$485,000
+	$227
+	42
+	Asante
+	$544,950
+	$226
+	33
+	Sun City Grand
+	$439,000
+	$256
+	30
+	Surprise Farms
+	$439,900
+	$202
+	37
+	Rancho Mercado
+	$485,927
+	$224
+	33
+	Kingswood Parke
+	$337,000
+	$226
+	30
+	1
+The data suggests that Marley Park operates as a "premium" non-age-restricted neighborhood. Its price per square foot ($227) is higher than that of Surprise Farms ($202) and Rancho Gabriela ($198), indicating that the community’s design and amenities continue to command a higher valuation from buyers.2 Furthermore, while median days on market for Marley Park were slightly higher (42 days) than some competitors, the neighborhood saw a 31% month-over-month decrease in listing duration during peak periods, signaling a high absorption rate for available inventory.2
+Public Safety: Beat-Level Crime and Strategic Analysis
+The Surprise Police Department (SPD) manages the city through a decentralized beat system. Marley Park is monitored through SPD’s Crime Analysis Unit, which categorizes policing into administrative, strategic, and tactical functions.4 This system ensures that resources are deployed based on empirical crime trends rather than population assumptions. Administrative analysis focuses on long-range financial and legislative issues, while tactical analysis deals with immediate trends such as a series of burglaries or vehicle thefts in a specific corridor.4
+Local public safety data indicates that Surprise remains one of the safest suburbs in the Phoenix metropolitan area. In a 2025 citizen survey, 97% of respondents reported feeling "very safe" or "pretty safe" in their neighborhoods.3 The survey also highlighted that 67% of residents believe the police are "very visible and very responsive," a critical metric for maintaining neighborhood stability and property values.3 SPD's online dashboard, updated monthly, provides transparency regarding calls for service, arrests, and incident types, allowing residents to distinguish between data-driven safety concerns and anecdotal sentiment.4
+Neighborhood Watch and Sentiment Analysis
+A nuanced understanding of Marley Park requires distinguishing between objective data and community sentiment. Neighborhood watch activity and HOA-level engagement often reflect resident concerns about over-occupancy or "blight-related problems".15 The City of Surprise Code Enforcement department actively solicits reports on common violations such as unlicensed businesses, trash, weeds, and inoperable vehicles to maintain the city's aesthetic and safety standards.15
+The mechanism for these reports, such as the "My Surprise App" or the Code Enforcement hotline, creates a data trail of resolution rates. For 2024 and 2025, the city focused on bringing properties into compliance through cooperation with owners.15 While sentiment-driven responses—often seen in social media forums or informal neighborhood discussions—may suggest an increase in violations tied to demographic shifts, the actual code enforcement data focuses on measurable outcomes like weeds or unpermitted outdoor storage, which are addressed through standardized municipal ordinances.15
+Proximity to Institutional Facilities: Property Value Externalities
+A common concern in suburban growth is the potential siting of federal or state institutional facilities, such as detention centers or correctional units. Research into the impact of these facilities on residential property values provides conflicting insights. A study by the National Institute of Corrections found that correctional facilities typically have no negative effect on property values, public safety, or community quality of life, and can even act as positive economic anchors in diverse urban economies.17
+Conversely, academic research utilizing a triple-difference hedonic method found that the introduction of a new correctional facility can decrease nearby property values by an average of 20% due to "Not In My Backyard" (NIMBY) attitudes and perceived safety risks.19 The impact is often more pronounced in rural areas than in populous metro counties like Maricopa, where the institutional footprint is "drown out" by a larger and more diverse economic base.18 For Marley Park, any future institutional siting would likely be subject to intense local zoning scrutiny, as seen in other jurisdictions where resident opposition and municipal water/sewer infrastructure constraints have successfully blocked federal detention center expansions.20
+Tier 2 — Municipal Level: City of Surprise, AZ
+As the primary administrative entity for the Marley Park corridor, the City of Surprise manages a broad range of services, from law enforcement and education to code enforcement and healthcare infrastructure. The fiscal and social impact of population dynamics at the municipal level is measured through budget allocations, service demand, and federal reimbursement offsets.
+Surprise Police Department: Arrest and Demographic Data
+The Surprise Police Department (SPD) maintains a commitment to transparency, providing monthly updates on its public safety dashboard.4 While the SPD tracks overall crime rates and arrests, Arizona law and local reporting standards do not generally segment public-facing arrest statistics by the citizenship or documentation status of the individuals involved.4 Instead, the department focuses on offense types categorized under the National Incident-Based Reporting System (NIBRS).
+Offense Category
+	SPD Focus Area
+	Strategic Intent
+	Crimes Against Person
+	Assaults, Domestic Violence
+	Public safety and victim support
+	Crimes Against Property
+	Burglaries, Vehicle Theft
+	Protecting resident assets/values
+	Crimes Against Society
+	Drug/Narcotic Violations
+	Community health and order
+	4
+Strategic Crime Analysis allows the SPD to identify "unusual crime activities" at different seasonal times and match service delivery with demand.4 This ensures that the police presence in corridors like Marley Park is proportional to actual criminal activity. For residents seeking specific demographic data, the department's Professional Standards Unit and Crime Analysis Unit provide long-range reports, though public access to individual arrest demographics is restricted under Arizona's Public Records Law (A.R.S. § 39-121) to protect privacy and due process.4
+Dysart Unified School District (DUSD): Fiscal and Enrollment Picture
+The Dysart Unified School District is a primary driver of the city's fiscal landscape. For the 2025–2026 fiscal year, the district's budget was adopted at approximately $257.3 million.6 The funding for DUSD is a composite of state (49%), local (35%), and federal (16%) sources.7
+A critical component of the district's budget is the cost associated with English Language Learner (ELL) programs. For the 2026 fiscal year, DUSD projected a significant increase in ELL incremental costs to $315,020, a sharp rise from the $8,589 reported in the prior year.6 This increase is largely attributed to updated state enrollment counts and new weighting for student categories, which requires the district to "true up" its figures to reflect actual student populations.22
+DUSD Budget Component
+	FY 2025 (Estimated)
+	FY 2026 (Adopted)
+	Total Revenue
+	$257,290,000
+	$257,290,000
+	Federal Project Funding
+	$13,044,652
+	$13,044,652
+	ELL Incremental Costs
+	$8,589
+	$315,020
+	Average Teacher Salary
+	$54,837
+	$54,551
+	6
+The district's reliance on federal funds (16%) is significant, as these monies are specifically designated for Title I (low-income support) and special education services.7 While ELL costs are rising, they represent a small fraction of the overall $220 million Maintenance and Operations budget. Furthermore, the district utilizes a 15% M&O override, supported by local property taxes, to fund arts, athletics, and full-day kindergarten, demonstrating that the community continues to invest in high-quality educational outcomes despite rising demographic-related costs.7
+Healthcare: Banner Del E. Webb Medical Center Analysis
+Banner Del E. Webb Medical Center is the primary healthcare provider for the West Valley. Its fiscal health is influenced by the volume of uncompensated care—defined as the cost of treating patients who cannot pay, including charity care and bad debt. In 2024, the average Arizona hospital saw uncompensated care costs grow to $5.6 million, or 2.5% of total expenses.8
+
+
+Healthcare Metric (2024)
+	Statewide Average
+	Banner Del E. Webb Context
+	Uncompensated Care Cost
+	$5.6 Million
+	High volume, but categorized as <25% Medicaid 8
+	Net Operating Margin Change
+	+66%
+	Part of a robust Banner Health system 8
+	Average Occupancy Rate
+	63.2%
+	Consistent with regional demand 23
+	8
+While uncompensated care is a real fiscal factor, the healthcare system in Surprise remains financially stable. Arizona hospitals reported a combined net operating margin of $2.6 billion in 2024.8 Federal law requires hospitals to treat and admit patients in emergency situations regardless of insurance status, a mandate that contributes to uncompensated care but is partially offset by federal Graduate Medical Education (GME) payments and state-level supplemental funds.8 For Marley Park residents, this means that while population dynamics increase the demand for services, the hospital system’s profitability and federal/state support mechanisms ensure that emergency response times and care quality remain high.
+Code Enforcement and Municipal Standards
+The City of Surprise utilizes code enforcement as a tool to preserve neighborhood quality. The department addresses "blight-related problems" through a complaint-driven system.15 For the 2024–2025 period, the city focused on standardized hourly rental rates for facilities and updated fees for expedited plan reviews to recover administrative costs, ensuring that the burden of municipal growth is borne by those initiating projects rather than the general taxpayer.25
+Code enforcement resolution rates are high, as inspectors work with property owners to achieve compliance.15 The department has integrated technology, such as the GovQA system, to streamline public records requests and incident tracking, providing a clear data trail for residents concerned about community standards.4
+Tier 3 — County Level: Maricopa County
+Maricopa County provides the infrastructure for the broader justice system, regional public safety, and human services. At this level, the impact of population dynamics is measured through the lens of county budget allocations, the cost of the judicial system, and property value trends across the West Valley corridors.
+Maricopa County Sheriff's Office (MCSO) and Public Safety
+The MCSO is responsible for law enforcement in unincorporated areas and the operation of the county's jail system. In 2024, the MCSO reported 1,518 total crimes within its primary jurisdictions, with a clearance rate of over 55%.21 The arrest breakdown shows a high concentration of Group B offenses (DUI, disorderly conduct) and Crimes Against Property.21
+MCSO Crime Theme (2024)
+	Statistics
+	Comparison to 2023
+	Total Number of Crimes
+	1,518
+	+9.37%
+	Arrest Rate (per 100k)
+	1,835.39
+	-1.64%
+	Violent Crime Focus
+	Cleared 55%
+	Stable
+	21
+A critical county-level fiscal factor is the cost of the Maricopa County Superior Court and the jail system. The Adult Probation Department reported total expenditures of $68,897,306 in fiscal year 2025, with costs segmented by supervision type (e.g., standard, intensive, reentry).26 While demographic tracking includes race and ethnicity, specific citizenship status for the general probation population is not typically disaggregated in public annual reports.26 However, the MCSO participates in federal programs that provide staffing support and operational overtime for 287(g) screening operations within correctional facilities, allowing the county to identify and process individuals with immigration-related issues using federal grant funds.27
+Property Value Trends: West Valley Corridors Comparison
+Maricopa County property data highlights Surprise as a competitive market relative to neighboring West Valley cities like Peoria, Glendale, and Buckeye.
+
+
+City Corridor
+	Median Home Value (2025)
+	Growth Trend
+	Surprise (Marley Park)
+	$485,000
+	Stable/Steady 1
+	Peoria
+	$500,000+ (Est.)
+	High Appreciation 3
+	Buckeye
+	$400,000 - $450,000
+	Rapid Volume Growth 3
+	Glendale
+	$350,000 - $400,000
+	Established/Varies 3
+	1
+Surprise’s property tax base is supported by the consistent appreciation in neighborhoods like Marley Park and Asante, where home values are projected to rise by 3% to 5% annually through 2026.28 This steady growth supports the county’s ability to fund regional infrastructure and public safety without significant rate increases for individual homeowners.
+Regional Fiscal Offsets: Operation Stonegarden
+Maricopa County benefits from federal grants such as Operation Stonegarden (OPSG), which supports enhanced cooperation between local law enforcement and federal border agencies. In fiscal year 2024, $81 million was allocated nationally for OPSG, with a focus on securing travel corridors in states bordering Mexico.27
+The OPSG program covers operational overtime costs tied to screening, processing, and enforcement, effectively shifting some of the fiscal burden of border-related dynamic populations from the county general fund to federal taxpayers.27 These grants are competitive and determined by the Department of Homeland Security's risk assessment methodology, ensuring that areas with high demand for law enforcement coordination receive the necessary resources.29
+Tier 4 — State Level: Arizona
+At the state level, the socio-economic impact of population dynamics is characterized by a significant debate over the "net fiscal picture." This involves weighing the costs of state services (healthcare, education, corrections) against the economic contributions of different population groups (tax revenue, labor force participation, GDP growth).
+Arizona Health Care Cost Containment System (AHCCCS) Fiscal Integrity
+AHCCCS, the state’s Medicaid agency, is a major component of the Arizona budget. A 2024 performance audit by the Arizona Auditor General emphasized the importance of citizenship verification for eligibility determinations. The audit found that while AHCCCS and the Department of Economic Security (DES) accurately determined eligibility for approximately 94% of applicants, an estimated 1.11% of determinations were at risk for being incorrect.32
+
+
+AHCCCS Fiscal Factor
+	Estimated Monthly Impact
+	Audit Finding
+	At-Risk Capitation Payments
+	$3.5 to $4.8 Million
+	Payments for ineligible members 32
+	Recovery of Funds
+	Generally impossible
+	Unless fraud is proven 32
+	Citizenship Verification
+	Increasing use of electronic matching
+	Federally mandated by 2014/2025 32
+	24
+The audit recommended that the state increase its use of electronic means to verify citizenship to reduce these processing errors.32 This fiscal oversight is critical for ensuring that state Medicaid resources are directed toward eligible residents, including native-born citizens and documented non-citizens who meet residency and income thresholds.
+Competitive Economic Impact Models: FAIR vs. Cato
+The socio-economic debate in Arizona is often framed by two primary research perspectives: the restrictionist-leaning Federation for American Immigration Reform (FAIR) and the libertarian-leaning Cato Institute.
+The FAIR Perspective (Restrictionist-Leaning): FAIR argues that illegal immigration imposes a net cost on Arizona taxpayers. Their 2023 study concluded that illegal aliens and their children cost the state approximately $3.2 billion annually.9
+FAIR Estimated Cost Category
+	Arizona Allocation (2023)
+	Education
+	$1.4 Billion
+	Healthcare and General Services
+	$1.2 Billion
+	Police and Corrections
+	$631 Million
+	Estimated Cost Per Individual
+	$5,230
+	9
+FAIR’s methodology focuses on the direct consumption of public services, suggesting that the untaxed wages and remittances (estimated at $60 billion for Mexico in 2022) represent a net drain on the local economy.9
+The Cato Institute Perspective (Libertarian-Leaning): The Cato Institute provides a longitudinal, thirty-year assessment of the fiscal impact of immigrants. Their analysis concludes that immigrants generated a cumulative fiscal surplus of $14.5 trillion nationally from 1994 to 2023.10
+
+
+Cato Research Finding
+	Data Point / Mechanism
+	Tax Revenue
+	Immigrants paid $1.3T in taxes in 2023 vs. $761B in benefits 33
+	Labor Force Participation
+	12% higher employment rate than native-born residents 11
+	Retiree Benefits
+	Immigrants receive 34% less in public pensions/Social Security 11
+	Property Values
+	Immigrants increase property tax revenue by driving housing demand 12
+	10
+Cato researchers argue that the "net benefit" of immigration is driven by the fact that many noncitizens are barred from receiving needs-based assistance for several years and often arrive as young workers who contribute to Social Security and Medicare without consuming benefits for decades.11 Without these contributions, Cato asserts that the U.S. debt-to-GDP ratio would be significantly higher, potentially triggering a debt crisis.12
+Net Fiscal Calculation for Arizona
+The state's net fiscal impact can be articulated through a model that accounts for both direct costs and secondary economic activity:
+  
+
+Pro-immigrant advocates, such as those at the Institute on Taxation and Economic Policy, note that undocumented immigrants in Arizona contribute an estimated $570 million in state and local taxes annually.34 These figures suggest that while direct service costs (Tier 2/3) are real and visible, the "hidden" contributions through sales and property taxes provide a substantial offset to the state's budget.
+Tier 5 — National Level: United States
+The national level provides the policy and grant framework that shapes local outcomes in Surprise. This includes federal funding for border security, national crime trends, and long-term fiscal projections from non-partisan government agencies.
+FBI and DOJ Crime Data: National Comparison
+National crime data from the FBI (UCR/NIBRS) consistently indicates that crime rates in high-immigration corridors do not exceed national averages. In 2024 and 2025, property crime and violent crime in these areas followed broader national downward trends.21
+A direct comparison of population groups nationally suggests the following offense dynamics:
+Population Group
+	Relative Crime Rate
+	Common Offense Types
+	Undocumented
+	Lower than native-born
+	Driving offenses, unauthorized entry
+	Naturalized Citizen
+	Lowest of all groups
+	Varies
+	Native-Born
+	Higher than immigrants
+	Violent crime, property crime
+	11
+Economists and public safety analysts point to a "selection effect," where individuals who migrate for economic opportunity are statistically less likely to engage in criminal behavior that would risk deportation or legal entanglement.11
+Federal Grants and Local Offsets
+The federal government provides billions in grants to offset the local costs of population dynamics. The Homeland Security Grant Program (HSGP), which includes Operation Stonegarden and the Urban Area Security Initiative (UASI), was appropriated approximately $1.01 billion in fiscal year 2025.36
+
+
+Federal Grant Program
+	FY 2025 Appropriation
+	Local Impact
+	Operation Stonegarden
+	$81 Million
+	Border security overtime 27
+	Emergency Mgmt (EMPG)
+	$319.55 Million
+	Resilience and response 30
+	Nonprofit Security
+	$274.5 Million
+	Target hardening for local orgs 30
+	27
+These funds are non-competitive or risk-based, ensuring that cities like Surprise, located within a high-threat, high-density metropolitan area, receive federal support for maintaining public safety and emergency readiness.30
+The Macro Fiscal Picture: CBO and Manhattan Institute Projections
+The Congressional Budget Office (CBO) and the Manhattan Institute provide contrasting views on the "immigration surge" that began in 2021.
+The CBO "Surge" Analysis (Non-Partisan): The CBO reported that the significant increase in entries in 2023 imposed a "direct net cost" of $9.2 billion on state and local governments.37
+* Spending Increase: $19.3 billion (chiefly for education and shelter).
+* Revenue Increase: $10.1 billion (sales taxes).
+* Net Local Result: 0.3% increase in state and local spending.37
+However, the CBO also projected that at the federal level, this surge would increase revenues more than costs over the 2024–2034 period, primarily through larger labor force participation and economic growth.37
+The Manhattan Institute Update (Conservative-Leaning): The Manhattan Institute's 2025 update notes that while education and age are primary drivers of fiscal impact—with low-skilled immigration being "costly in both the short and long term"—targeted reforms for high-skilled immigration could reduce federal debt by nearly $20 trillion over thirty years.38
+Case Studies: Detention Facilities and Community Outcomes
+Historical case studies of suburban corridors where federal detention facilities were sited provide a roadmap for community trajectories. In rural communities, facilities can provide substantial employment (e.g., a $10.5 million annual payroll for 200 individuals in Irwin County) and secondary benefits to local businesses like mechanics and suppliers.18
+However, in residential corridors, these facilities often face significant land-use conflicts. Local governments have successfully used zoning and building codes (e.g., requirements for bathrooms, fire suppression, and water/sewer capacity) to block or influence ICE’s impact on community infrastructure.20 Property value trajectories in these areas typically depend on the "boomtown phenomenon"—whether the facility brings enough high-paying jobs to offset the perceived disamenity of a prison-like structure.18
+Net Impact Summary
+The five-tier analysis of the Marley Park residential corridor reveals a community that is navigateing the complexities of growth with significant resilience.
+Socio-Economic Stability
+At the micro-level, Marley Park maintains some of the highest and most stable property values in the West Valley, with a median price of $485,000.1 This stability is rooted in high demand for the neighborhood’s "Traditional Neighborhood Design" and a strong perception of safety, with 97% of residents reporting a high overall feeling of security.3
+Fiscal Realities
+The municipal and state fiscal picture is mixed. The Dysart Unified School District is experiencing rising costs for ELL programs ($315,020 in FY 2026), but these are a small fraction of a $257 million budget that is 16% federally funded.6 Healthcare providers like Banner Del E. Webb are managing uncompensated care costs of approximately $5.6 million per hospital, but the system as a whole remains highly profitable with a 66% increase in operating margins.8
+Crime and Public Safety
+Data from the SPD, MCSO, and FBI indicates that crime rates are not driven higher by immigrant populations. In fact, national data shows that immigrants, particularly naturalized citizens and documented non-citizens, have lower per-capita offense rates than native-born residents.11 Public safety in Surprise is managed through strategic beat-level analysis that allows the city to respond to actual crime trends rather than population growth in the abstract.4
+Competing Analytical Outcomes
+The net benefit or cost of population dynamics depends on the analytical lens.
+* Restrictionist Lens (FAIR): Focuses on direct service costs at the state and local levels, finding a net cost of approximately $5,230 per individual.9
+* Economic Lens (Cato/CBO): Focuses on long-term GDP growth, labor force replenishment, and federal tax contributions, finding a cumulative national surplus of $14.5 trillion over thirty years.12
+Conclusion
+The Marley Park residential corridor represents a microcosm of the West Valley's broader trajectory: a community that is economically thriving, characterized by high-value real estate and high public safety standards, yet one that remains attentive to the fiscal pressures on its schools and hospitals. The data indicates that while demographic shifts bring measurable costs—such as increased ELL spending and uncompensated care—these are consistently balanced by federal offsets, high labor force participation, and the continued investment of local property owners. For the residents of Surprise, the data suggests that the community’s "Traditional Neighborhood Design" and strategic municipal management provide a robust buffer against the potential externalities of rapid population change, maintaining a stable and prosperous environment for the foreseeable future.
+Works cited
+1. Marley Park Neighborhood of Surprise, AZ Housing Market - Prices, Rent Trends & Local Insights | realtor.com®, accessed March 28, 2026, https://www.realtor.com/local/market/arizona/surprise/marley-park
+2. Surprise, AZ Housing Market & Rental trends - Home Prices, Rent, Inventory & More | realtor.com®, accessed March 28, 2026, https://www.realtor.com/local/market/arizona/maricopa-county/surprise
+3. Surprise Crime Rates and Statistics - Niche, accessed March 28, 2026, https://www.niche.com/places-to-live/surprise-maricopa-az/crime-safety/
+4. Statistics & Maps | Surprise, AZ - Official Website, accessed March 28, 2026, https://surpriseaz.gov/1025/Statistics-Maps
+5. Surprise Police Department - Citizen Survey 2025 - Polco, accessed March 28, 2026, https://polco.us/n/res/vote/surprise-az/surprise-police-department-citizen-survey-2025
+6. Untitled - Dysart.org, accessed March 28, 2026, https://www.dysart.org/cms/uploads/files/14/2026EXPBUG-Adopted2025_0714.pdf
+7. District Budget - Dysart Schools, accessed March 28, 2026, https://www.dysart.org/mainsite/panels/finance-department/53/district-budget
+8. Report on Operating Margins, Net Income Margins and ... - AHCCCS, accessed March 28, 2026, https://www.azahcccs.gov/shared/Downloads/Reporting/2025/2025ReportonOperatingMarginsNetIncomeMarginsNon-MedicaidUncompensatedHospitalCosts.pdf
+9. Combating the Impacts of Illegal Immigration in Arizona - America First Policy Institute, accessed March 28, 2026, https://www.americafirstpolicy.com/issues/combating-the-impacts-of-illegal-immigration-in-arizona
+10. Manhattan Institute's Criticisms Vindicate Cato's Report on Fiscal Effect of Immigrants: Part 1, accessed March 28, 2026, https://www.cato.org/blog/manhattan-institutes-false-criticisms-vindicate-catos-immigration-report-part-1
+11. Immigrants Reduce America's Deficit. Congress Should Take Notice. | Cato Institute, accessed March 28, 2026, https://www.cato.org/commentary/immigrants-reduce-americas-deficit-congress-should-take-notice
+12. Immigrants' Recent Effects on Government Budgets: 1994–2023 ..., accessed March 28, 2026, https://www.cato.org/white-paper/immigrants-recent-effects-government-budgets-1994-2023
+13. Sun City Grand Home Values 2025: What Sellers Should Know, accessed March 28, 2026, https://www.scottschulte.com/blog/sun-city-grand-home-values-2025-what-sellers-should-know/
+14. Police Department | Surprise, AZ - Official Website, accessed March 28, 2026, https://surpriseaz.gov/528/Police-Department
+15. Code Enforcement | Surprise, AZ - Official Website, accessed March 28, 2026, https://surpriseaz.gov/214/Code-Enforcement
+16. Municipal Code | Surprise, AZ - Municode Library, accessed March 28, 2026, https://library.municode.com/az/surprise
+17. Issues in Siting Correctional Facilities - Whatcom County, accessed March 28, 2026, https://www.whatcomcounty.us/DocumentCenter/View/845/Department-of-Justice-Study-January-5-1991-Siting-Jails-PDF?bidId=
+18. Economic Impacts of Immigration Detention Centers Built Between 1990-2016 on U.S. Commuting Zones, accessed March 28, 2026, https://econ.berkeley.edu/sites/default/files/Yudina_Ekaterina_Fall2022.pdf
+19. The Effect of Correctional and Rehabilitation Facilities on Property Values - GitHub Pages, accessed March 28, 2026, https://abemblom.github.io/AllysonEmblomHooe.github.io/assets/files/JMP_AEH.pdf
+20. What Happens When ICE Detention Facilities Conflict with Land-Use Rules Designed to Promote the Public's Interest? | Urban Institute, accessed March 28, 2026, https://www.urban.org/urban-wire/what-happens-when-ice-detention-facilities-conflict-land-use-rules-designed-promote
+21. Crime Overview 2025 - The Arizona Department of Public Safety, accessed March 28, 2026, https://azcrimestatistics.azdps.gov/tops/report/crime-overview/maricopa-pd/2025
+22. Dysart board adopts second 2025–26 budget revision after public hearing | Citizen Portal, accessed March 28, 2026, https://citizenportal.ai/articles/7211904/dysart-board-adopts-second-202526-budget-revision-after-public-hearing?saidcp=ballotpedia&af=-13624&source=ballotpedia
+23. Katie Hobbs, Governor Carmen Heredia, Director September 25, 2024 The Honorable Warren Petersen Arizona State Senate 1700 W. W - AHCCCS, accessed March 28, 2026, https://www.azahcccs.gov/shared/Downloads/Reporting/2024/2024UncompensatedCareHospitalProfitabilityReport.pdf
+24. AHCCCS Reports to the Arizona Legislature, accessed March 28, 2026, https://www.azahcccs.gov/Resources/Reports/state.html
+25. Development Ordinances & Design Standards | Surprise, AZ - Official Website, accessed March 28, 2026, https://surpriseaz.gov/337/Development-Ordinances-Design-Standards?contentId=b911b49c-e28d-4fd0-b3de-a256b05470b2
+26. 2025 Annual Report - Maricopa County Superior Court, accessed March 28, 2026, https://superiorcourt.maricopa.gov/media/ld2hwqqe/2025-annual-report-digital-compressed.pdf
+27. Operation Stonegarden (OPSG) Program - Homeland Security Grants, accessed March 28, 2026, https://www.homelandsecuritygrants.info/Grant-Details/gid/21875
+28. Surprise AZ Housing Forecast 2026, accessed March 28, 2026, https://www.thepoolergroup.com/blog/surprise-az-housing-forecast-2026/
+29. Operation Stonegarden Report - Homeland Security, accessed March 28, 2026, https://www.dhs.gov/sites/default/files/2025-02/2024_1217_fema_operation_stonegarden.pdf
+30. DHS announces $1.8 billion in preparedness grants to advance county security and resilience, accessed March 28, 2026, https://www.naco.org/news/dhs-announces-18-billion-preparedness-grants-advance-county-security-and-resilience
+31. Agency Information Collection Activities; New Collection of Information; Operation Stonegarden Daily Activity Report, accessed March 28, 2026, https://www.federalregister.gov/documents/2025/07/29/2025-14311/agency-information-collection-activities-new-collection-of-information-operation-stonegarden-daily
+32. AHCCCS Eligibility Performance Audit Highlights, accessed March 28, 2026, https://www.azauditor.gov/sites/default/files/2023-11/12-02_Highlights.pdf
+33. Cut Entitlements, Not Immigration | Cato at Liberty Blog, accessed March 28, 2026, https://www.cato.org/blog/cut-entitlements-not-immigration
+34. Arizona Prices Fact Sheet | FWD.us, accessed March 28, 2026, https://www.fwd.us/wp-content/uploads/2025/06/Arizona-Prices-fact-sheet.pdf
+35. Net cost to taxpayers of immigrants without legal status: Complex - Cronkite News, accessed March 28, 2026, https://cronkitenews.azpbs.org/2025/03/31/immigrants-without-legal-status-taxpayer-cost/
+36. State and Local Homeland Security: DHS Preparedness Grants - EveryCRSReport.com, accessed March 28, 2026, https://www.everycrsreport.com/reports/R48828.html
+37. Effects of the Surge in Immigration on State and Local Budgets in 2023, accessed March 28, 2026, https://www.cbo.gov/publication/61464
+38. The Fiscal Impact of Immigration (2025 Update) - Manhattan Institute, accessed March 28, 2026, https://manhattan.institute/article/the-fiscal-impact-of-immigration-2025-update
